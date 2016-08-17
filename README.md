@@ -1,5 +1,5 @@
 # funniest
-python packaging
+python packaging [tutorial](http://python-packaging.readthedocs.io/en/latest/index.html) artefacts
 
 install the package locally (for use on our system), with:
 
