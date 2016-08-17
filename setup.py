@@ -28,5 +28,9 @@ setup(name='funniest',
       include_package_data=True,
       zip_safe=False,
       test_suite='nose.collector',
-      tests_require=['nose']
+      tests_require=['nose'],
+      scripts=['bin/funniest-joke'],
+      entry_points={
+          'console_scripts': ['funniest-joke=funniest.command_line:main'],
+      }
       )
