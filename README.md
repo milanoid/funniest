@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/milanoid/funniest.svg)](https://travis-ci.org/milanoid/funniest)
+
 # funniest
 python packaging [tutorial](http://python-packaging.readthedocs.io/en/latest/index.html) artefacts
 
